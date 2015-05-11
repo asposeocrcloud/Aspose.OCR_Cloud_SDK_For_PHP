@@ -3,7 +3,7 @@
 namespace Aspose\OCR;
 
 use Aspose\OCR\AsposeApp;
-use Aspose\Barcode\ApiException as Exception;
+use Aspose\OCR\ApiException as Exception;
 
 /**
  * APIClient.php
